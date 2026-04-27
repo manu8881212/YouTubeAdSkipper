@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YT Ad Skipper</string>
+    <string name="accessibility_description">YouTube videos mein aane wale ads ko automatically skip karta hai. Sirf YouTube app ke andar kaam karta hai.</string>
+</resources>
